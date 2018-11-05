@@ -1,4 +1,4 @@
-# Principle （ver 1.0)
+# Principle （ver 2.0)
 
 我们遵循以下原则
 
